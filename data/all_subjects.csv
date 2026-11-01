@@ -1,0 +1,285 @@
+code,name,category,eff_from,sem,L,T,P,PBL,credit,E,M,I,V,total
+340001,Entrepreneurship Development,Compulsory,2011-12,4,3,0,0,NA,3,70,30,0,0,100
+1990002,Integrated Personality Development Course,Elective,2021,2,4,0,0,NA,4,70,30,30,20,150
+DI01000011,Induction Programme with Essence of Indian Knowledge,Mandatory Non-Credit Courses – Audit Course,2024-25,1,0,0,0,NA,0,0,0,0,0,0
+DI01000021,Mathematics-I,Basic Science Courses,2024-25,1,3,1,0,NA,4,70,30,0,0,100
+DI01000031,Communication Skills in English,"Humanities and Social Science, including Management Courses",2024-25,1,2,0,2,NA,3,70,30,20,30,150
+DI01000041,Sports and Yoga,Mandatory Non-Credit Courses – Audit Course,2024-25,1,0,0,2,NA,0,0,0,50,0,50
+DI01000071,Engineering Chemistry,Basic Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+DI01000081,DC Circuit,Professional Core Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+DI01000091,Fundamentals of Information and Communication Technology,Engineering Science Courses,2024-25,1,0,1,4,NA,3,0,0,20,30,50
+DI01009011,Electronics Devices & Circuits,Engineering Science Courses,2024-25,1,2,0,2,NA,3,70,30,20,30,150
+DI01000061,Modern Physics,Basic Science Courses,2024-25,2,3,0,2,NA,4,70,30,20,30,150
+DI02000021,Engineering Mathematics,Basic Science Courses,2024-25,2,3,1,0,NA,4,70,30,0,0,100
+DI02000051,Environmental Sustainability,Engineering Science Courses,2024-25,2,2,0,0,NA,2,70,30,0,0,100
+DI02000061,Indian Constitution,Mandatory Non-Credit Courses – Audit Course,2024-25,2,2,0,0,NA,0,0,0,50,0,50
+DI02000131,Contributor Personality Development,"Humanities and Social Science, including Management Courses",2024-25,2,2,0,2,NA,3,70,30,20,30,150
+DI02000141,Integrated Personality Development Course,"Humanities and Social Science, including Management Courses",2024-25,2,2,0,2,NA,3,70,30,20,30,150
+DI02000151,Essence of Indian Knowledge and Tradition,"Humanities and Social Science, including Management Courses",2024-25,2,3,0,0,NA,3,70,30,20,30,150
+DI02000161,Fundamental of Digital Electronics,Engineering Science Courses,2024-25,2,2,0,2,NA,3,70,30,20,30,150
+DI02000171,AC Fundamental,Professional Core Courses,2024-25,2,3,0,2,NA,4,70,30,20,30,150
+DI01C00021,Mathematics-I,Basic Science Courses,2025-26,1,3,1,0,NA,4,70,30,0,0,100
+DI01C00031,Communication Skills in English,"Humanities and Social Science, including Management Courses",2025-26,1,2,0,2,NA,3,70,30,20,30,150
+DI01C00041,Sports and Yoga,Mandatory Non-Credit Courses – Audit Course,2025-26,1,0,0,2,NA,0,0,0,50,0,50
+DI01C00071,Engineering Chemistry,Basic Science Courses,2025-26,1,3,0,2,NA,4,70,30,20,30,150
+DI01C00081,DC Circuit,Professional Core Courses,2025-26,1,3,0,2,NA,4,70,30,20,30,150
+DI01C00091,Fundamentals of Information and Communication Technology,Engineering Science Courses,2025-26,1,0,1,4,NA,3,0,0,20,30,50
+DI01C09011,Electronics Devices & Circuits,Engineering Science Courses,2025-26,1,2,0,2,NA,3,70,30,20,30,150
+DI01C00061,Modern Physics,Basic Science Courses,2025-26,2,3,0,2,NA,4,70,30,20,30,150
+DI02C00021,Engineering Mathematics,Basic Science Courses,2025-26,2,3,1,0,NA,4,70,30,0,0,100
+DI02C00051,Environmental Sustainability,Engineering Science Courses,2025-26,2,2,0,0,NA,2,70,30,0,0,100
+DI02C00061,Indian Constitution,Mandatory Non-Credit Courses – Audit Course,2025-26,2,2,0,0,NA,0,0,0,50,0,50
+DI02C00131,Contributor Personality Development,"Humanities and Social Science, including Management Courses",2025-26,2,2,0,2,NA,3,70,30,20,30,150
+DI02C00141,Integrated Personality Development Course,"Humanities and Social Science, including Management Courses",2025-26,2,2,0,2,NA,3,70,30,20,30,150
+DI02C00151,Essence of Indian Knowledge and Tradition,"Humanities and Social Science, including Management Courses",2025-26,2,3,0,0,NA,3,70,30,20,30,150
+DI02C00161,Fundamental of Digital Electronics,Engineering Science Courses,2025-26,2,2,0,2,NA,3,70,30,20,30,150
+DI02C00171,AC Fundamental,Professional Core Courses,2025-26,2,3,0,2,NA,4,70,30,20,30,150
+DI03000071,Electrical and Electronics Workshop,Engineering Science Courses,2025-26,3,0,1,4,NA,3,0,0,20,30,50
+DI03000081,Electrical Machines – I,Professional Core Courses,2025-26,3,3,0,2,NA,4,70,30,20,30,150
+DI03000091,Electrical Instrumentation,Professional Core Courses,2025-26,3,3,0,2,NA,4,70,30,20,30,150
+DI03000101,Electrical Power Transmission & Distribution,Professional Core Courses,2025-26,3,3,0,2,NA,4,70,30,20,30,150
+DI03009011,Electrical Wiring Estimating & Contracting,Professional Core Courses,2025-26,3,3,0,2,NA,4,70,30,20,30,150
+DI03009021,Electrical Power Generation,Professional Core Courses,2025-26,3,3,0,0,NA,3,70,30,0,0,100
+DI04000081,Entrepreneurship & Start-up,Multidisciplinary Open Professional Electives Courses,2025-26,4,3,0,0,NA,3,70,30,0,0,100
+DI04000171,Microcontroller & its Applications,Professional Core Courses,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000181,Utilization of Electrical Power,Professional Elective - I,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000191,Introduction to IoT,Multidisciplinary Open Professional Electives Courses,2025-26,4,2,0,2,NA,3,70,30,20,30,150
+DI04000201,Industrial Automation & Control,Multidisciplinary Open Professional Electives Courses,2025-26,4,2,0,2,NA,3,70,30,20,30,150
+DI04000321,Electrical Machines - II,Professional Core Courses,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000331,Electrical AutoCAD & Simulation,Professional Core Courses,2025-26,4,0,1,4,NA,3,0,0,20,30,50
+DI04009011,Substation Engineering,Professional Core Courses,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04009021,Energy Efficiency & Audit,Professional Elective - I,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04009031,Commissioning & Maintenance of Electrical Equipments,Professional Elective - II,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04009041,Electrical Control Panels,Professional Elective - II,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI05000011,Skill - Based Training,Skilling-Based Course/Training,2026-27,5,0,0,4,NA,2,0,0,30,70,100
+DI05000081,Drone Technology,Multidisciplinary Open Professional Electives Courses,2026-27,5,2,0,2,NA,3,70,30,20,30,150
+DI05000171,Power Electronics Converters,Professional Core Courses,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05000181,Advance Electrical Machines and Drives,Professional Elective - III,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05000191,Power System Operation and Management,Professional Elective - III,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05000201,Embedded & IoT Systems,Professional Elective - III,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05000211,Digital Signal Controller,Professional Elective - IV,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05000221,Electrical Vehicle Technology,Multidisciplinary Open Professional Electives Courses,2026-27,5,2,0,2,NA,3,70,30,20,30,150
+DI05000341,Minor Project,Project Work,2026-27,5,0,0,6,NA,3,0,0,50,50,100
+DI05009011,Switchgear and Protection,Professional Core Courses,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05009021,Green Technology,Professional Elective - IV,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+C300001,Basic Mathematics,,7/1/2013,1,2,2,0,NA,4,70,30,0,0,100
+C300002,English,,7/1/2013,1,3,2,0,NA,5,70,30,30,20,150
+C300003,Environment Conservation & Hazard Management,,7/1/2013,1,4,0,0,NA,4,70,30,0,0,100
+C300006,ENGINEERING CHEMISTRY ( GROUP-2 ),,7/1/2013,1,3,0,2,NA,5,70,30,30,20,150
+C300015,Fundamental Of Mechanical Engineering,,7/1/2013,1,3,0,2,NA,5,70,30,30,20,150
+C300005,BASIC PHYSICS (GROUP-2),Compulsory,7/1/2013,2,3,0,2,NA,5,70,30,30,20,150
+C320002,ADVANCED MATHEMATICS (GROUP-1),Compulsory,7/1/2013,2,2,2,0,NA,4,70,30,0,0,100
+C320004,Basic Of Civil Engineering,Compulsory,7/1/2013,2,0,1,2,NA,3,0,0,30,20,50
+C320903,D.c.circuits,Compulsory,7/1/2013,2,2,2,2,NA,6,70,30,30,20,150
+310001,Advertising And Communication,,Aug-2011,1,3,0,0,NA,3,70,30,0,0,100
+310002,Applied Science- I [physics],,Aug-2011,1,2,0,0,NA,2,70,30,0,0,100
+310004,Art & Design,,Aug-2011,1,2,0,6,NA,8,70,30,50,0,150
+310006,Building Material - I,,Aug-2011,1,4,0,0,NA,4,70,30,0,0,100
+310007,Business Communication I,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310008,Business Mathematics,,Aug-2011,1,4,0,2,NA,6,70,30,50,0,150
+310009,Business Organization And Management,,Aug-2011,1,4,0,2,NA,6,70,30,50,0,150
+310010,Ceramic Materials,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310011,Clothing Construction - I,,Aug-2011,1,1,0,6,NA,7,70,30,50,0,150
+310012,Colour,,Aug-2011,1,1,0,6,NA,7,70,30,50,0,150
+310014,Communication Skills - I,,Aug-2011,1,4,0,0,NA,4,70,30,0,0,100
+310015,Communication Skills,,Aug-2011,1,4,0,0,NA,4,70,30,0,0,100
+310018,Computer Applications,,Aug-2011,1,0,0,4,NA,4,0,0,100,0,100
+310019,Computer - I,,Aug-2011,1,2,0,4,NA,6,70,30,50,0,150
+310020,Cooking Methods,,Aug-2011,1,2,0,6,NA,8,70,30,50,0,150
+310021,Drawing & Painting - I,,Aug-2011,1,0,0,6,NA,6,0,0,100,0,100
+310022,Drawing Sketching & Painting - I,,Aug-2011,1,2,0,8,NA,6,70,30,50,0,150
+310023,Electronic Materials & Components,,Aug-2011,1,3,0,0,NA,3,70,30,0,0,100
+310024,Elementary Clothing & Textiles,,Aug-2011,1,4,0,4,NA,8,70,30,50,0,150
+310025,Elementary Home Management,,Aug-2011,1,4,0,4,NA,8,70,30,50,0,150
+310026,Elements of Textile Processing,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310027,Elements of Textile Technology,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310029,Engineering Drawing,,Aug-2011,1,2,0,4,NA,6,70,30,50,0,150
+310030,Engineering Mechanics,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310031,Essentials of Environment and Seismic Engineering,,Aug-2011,1,3,0,0,NA,3,70,30,0,0,100
+310032,First Aid & Home Nursing,,Aug-2011,1,2,0,2,NA,4,70,30,50,0,150
+310033,Fundamental of Electronics,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310034,Mathematics - I,,Aug-2011,1,4,0,0,NA,4,70,30,0,0,100
+310035,Personality Development & Communication Skills,,Aug-2011,1,2,0,2,NA,4,70,30,50,0,150
+310036,Physical Analytical and Inorganic Chemistry,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310037,Principles And Practice of Accounting,,Aug-2011,1,4,0,2,NA,6,70,30,50,0,150
+310038,Principles of Economics I,,Aug-2011,1,4,0,2,NA,6,70,30,50,0,150
+310039,Textile Science,,Aug-2011,1,2,0,2,NA,4,70,30,50,0,150
+310041,Engineering Measurements - I,,Aug-2011,1,0,0,2,NA,2,0,0,100,0,100
+310042,Office Automation,,Aug-2011,1,0,0,4,NA,4,0,0,100,0,100
+310043,Building Drawing,,Aug-2011,1,0,0,6,NA,3,0,0,100,0,100
+310044,Model Making,,Aug-2011,1,0,0,4,NA,2,0,0,100,0,100
+310045,Object Drawing,,Aug-2011,1,1,0,6,NA,4,70,30,50,0,150
+310046,Sketching And Drawing,,Aug-2011,1,1,0,6,NA,4,70,30,50,0,150
+310047,Computer Application - I,,Aug-2011,1,1,0,6,NA,4,70,30,50,0,150
+310048,Arts And Crafts,,Aug-2011,1,0,0,6,NA,3,0,0,100,0,100
+310049,Workshop,,Aug-2011,1,0,0,4,NA,4,0,0,100,0,100
+320016,Programming In C,,Aug-2011,1,2,0,4,NA,6,70,30,50,0,150
+310049,Workshop,Compulsory,Aug-2011,2,0,0,4,NA,4,0,0,100,0,100
+320001,Mathematics-II,Compulsory,Aug-2011,2,3,0,0,NA,3,70,30,0,0,100
+320002,Applied Science - II (CHEMISTRY),Compulsory,Aug-2011,2,2,0,0,NA,2,70,30,0,0,100
+320003,Elements of Mechanical Engineering,Compulsory,Aug-2011,2,2,0,2,NA,4,70,30,50,0,150
+320004,Fundamentals of Electrical Engineering,Compulsory,Aug-2011,2,3,0,2,NA,5,70,30,50,0,150
+320005,Non Conventional Energy Sources,Compulsory,Aug-2011,2,3,0,0,NA,3,70,30,0,0,100
+320006,Civil Engg. Drawing,Compulsory,Aug-2011,2,2,0,6,NA,8,70,30,50,0,150
+320007,Elements of Civil Engineering,Compulsory,Aug-2011,2,2,0,2,NA,4,70,30,50,0,150
+320008,Mechanical Drafting,Compulsory,Aug-2011,2,2,0,6,NA,8,70,30,50,0,150
+320009,Electrical Circuit,Compulsory,Aug-2011,2,4,0,4,NA,8,70,30,50,0,150
+320010,Theory of Machine & Strength of Material,Compulsory,Aug-2011,2,4,0,2,NA,6,70,30,50,0,150
+320011,Organic Chemistry,Compulsory,Aug-2011,2,3,0,2,NA,5,70,30,50,0,150
+320012,Chemical Engineering Material,Compulsory,Aug-2011,2,2,0,0,NA,2,70,30,0,0,100
+320013,Mechanical Operation (CEO- I),Compulsory,Aug-2011,2,3,0,4,NA,7,70,30,50,0,150
+320014,Text Generation - I,Compulsory,Aug-2011,2,2,0,2,NA,4,70,30,50,0,150
+320015,Mechanical Structure & Piping Drafting,Compulsory,Aug-2011,2,2,0,4,NA,6,70,30,50,0,150
+320016,Programming In C,Compulsory,Aug-2011,2,2,0,4,NA,6,70,30,50,0,150
+320017,Electronic Devices And Circuits - I,Compulsory,Aug-2011,2,3,0,4,NA,7,70,30,50,0,150
+320018,Ceramic Art,Compulsory,Aug-2011,2,1,0,4,NA,5,70,30,50,0,150
+320019,Elements of Electrical & Mechanical For Textile,Compulsory,Aug-2011,2,4,0,4,NA,8,70,30,50,0,150
+320021,Fiber Technology,Compulsory,Aug-2011,2,3,0,0,NA,3,70,30,0,0,100
+320022,Fiber Science,Compulsory,Aug-2011,2,4,0,0,NA,4,70,30,0,0,100
+320023,Introduction To Mining & Geology,Compulsory,Aug-2011,2,3,0,0,NA,3,70,30,0,0,100
+320024,Communication Skills - II,Compulsory,Aug-2011,2,4,0,0,NA,2,70,30,0,0,100
+320027,Textile Process - I,Compulsory,Aug-2011,2,3,0,2,NA,5,70,30,50,0,150
+320038,Composition,Compulsory,Aug-2011,2,1,0,6,NA,7,70,30,50,0,150
+320042,Business Communication II,Compulsory,Aug-2011,2,3,0,2,NA,4,70,30,50,0,150
+320056,Engineering Measurement - II,Compulsory,Aug-2011,2,0,0,2,NA,2,0,0,100,0,100
+320057,Computer Application,Compulsory,Aug-2011,2,0,0,4,NA,4,0,0,100,0,100
+320058,Electronic Practices,Compulsory,Aug-2011,2,0,0,4,NA,4,0,0,100,0,100
+320059,Mechatronics Work-shop,Compulsory,Aug-2011,2,0,0,4,NA,4,0,0,100,0,100
+330901,Computer Aided Electrical Drawing & Drafting,,Aug-2011,3,0,3,40,NA,5,0,0,100,0,100
+330902,Basic Electronics,,Aug-2011,3,4,0,4,NA,8,70,30,50,0,150
+330903,Electrical Machine - I,,Aug-2011,3,4,0,4,NA,8,70,30,50,0,150
+330904,Generation & Transmission of Electrical Power,,Aug-2011,3,4,0,2,NA,6,70,30,50,0,150
+340901,Fundamental of Electronics Circuits,Compulsory,Aug-2011,4,3,0,4,NA,7,70,30,50,0,150
+340902,Electrical Machines - II,Compulsory,Aug-2011,4,4,0,4,NA,8,70,30,50,0,150
+340903,Electrical Instrumentation,Compulsory,Aug-2011,4,4,0,2,NA,6,70,30,50,0,150
+340904,A. C. Distribution & Utilization,Compulsory,Aug-2011,4,4,2,0,NA,6,70,30,50,0,150
+2350901,Electrical Installation & Maintenance,,Aug-2011,5,4,0,2,NA,6,70,30,20,30,150
+2350902,Industrial Electronics,,Aug-2011,5,4,0,2,NA,6,70,30,20,30,150
+2350903,"Electrical Wiring, Estimation, Costing & Contracting",,Aug-2011,5,3,2,2,NA,7,70,30,20,30,150
+2350904,Digital Electronics & Digital Instrument,,Aug-2011,5,4,0,2,NA,6,70,30,20,30,150
+2350905,Energy Conservation Techniques,,Aug-2011,5,3,0,2,NA,5,70,30,20,30,150
+2350906,Project - I,,Aug-2011,5,0,0,4,NA,4,0,0,50,100,150
+350901,Electrical Installation & Maintenance,,Aug-2011,5,4,0,2,NA,6,70,30,20,30,150
+350903,"Electrical Wiring, Estimation, Costing & Contracting",,Aug-2011,5,3,2,2,NA,7,70,30,20,30,150
+350904,Digital Electronics & Digital Instrument,,Aug-2011,5,4,0,2,NA,6,70,30,20,30,150
+350905,Energy Conservation Techniques,,Aug-2011,5,3,0,2,NA,5,70,30,20,30,150
+350906,Project - I,,Aug-2011,5,0,0,4,NA,4,0,0,50,100,150
+2360901,Project-II,,Aug-2011,6,0,0,6,NA,6,0,0,20,80,100
+2360902,Power Station Engineering,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+2360903,Switch Gear And Protection,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+2360904,Microprocessor And Control System Component,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+2360905,Electric Traction And Control,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+2360906,Power Electronics,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+2360907,Electrification of Building And Complexes,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+2360908,Power System Operation And Control,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+360901,Project,,Aug-2011,6,0,0,6,NA,6,0,0,20,80,100
+360902,Power Station Engineering,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+360903,Switch Gear And Protection,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+360904,Microprocessor And Control System Component,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+360905,Electric Traction And Control,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+360906,Power Electronics,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+360907,Electrification of Building And Complexes,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+360908,Power System Operation And Control,,Aug-2011,6,4,0,2,NA,6,70,30,20,30,150
+C4300001,Mathematics,Basic Sciences,Aug-2022,1,3,1,0,NA,4,70,30,0,0,100
+C4300002,Communication Skills in English,Humanities & Social Sciences,Aug-2022,1,2,0,2,NA,3,70,30,25,25,150
+C4300006,Engineering Chemistry,Basic Sciences,Aug-2022,1,3,0,2,NA,4,70,30,25,25,150
+C4300010,Basics of Information and Communication Technology,Engineering Sciences,Aug-2022,1,0,0,4,NA,2,0,0,25,25,50
+C4300015,Sports and Yoga,Audit,Aug-2022,1,0,0,2,NA,0,0,0,50,0,50
+C4300017,Basics of Mechanical Engineering,Engineering Sciences,Aug-2022,1,0,2,2,NA,3,0,0,25,25,50
+C4310901,D.C. Circuits,Program core,Aug-2022,1,3,1,2,NA,5,70,30,25,25,150
+C4300003,Environment and Sustainability,General Science,Aug-2022,2,3,0,0,NA,3,70,30,0,0,100
+C4300005,Physics,Basic Sciences,Aug-2022,2,3,0,2,NA,4,70,30,25,25,150
+C4300013,Basic Engineering Drawing and Graphics,Engineering Sciences,Aug-2022,2,2,0,4,NA,4,70,30,25,25,150
+C4300016,Indian Constitution,Audit,Aug-2022,2,2,0,0,NA,0,0,0,50,0,50
+C4310001,Basics of Civil Engineering,Engineering Sciences,Aug-2022,2,0,2,2,NA,3,0,0,25,25,50
+C4320002,Engineering Mathematics,Basic Sciences,Aug-2022,2,3,1,0,NA,4,70,30,0,0,100
+C4320901,A.C. Circuits,Program Core,Aug-2022,2,3,1,2,NA,5,70,30,25,25,150
+4330001,Summer Internship-I,Summer Internship-1(2 Weeks) after sem-2,Aug-2022,3,0,0,2,NA,1,0,0,25,25,50
+4330901,D. C. Machines And Transformer,Program Core,Aug-2022,3,4,0,4,NA,6,70,30,50,50,200
+4330902,Electrical Instrumentation,Program Core,Aug-2022,3,4,0,2,NA,5,70,30,25,25,150
+4330903,Electrical Power Generation and Transmission,Program Core,Aug-2022,3,4,0,2,NA,5,70,30,25,25,150
+4330904,Fundamentals Of Electronics,Program Core,Aug-2022,3,4,0,2,NA,5,70,30,25,25,150
+4330905,Electrical Engineering Workshop Practice,Program Core,Aug-2022,3,0,0,2,NA,1,0,0,50,50,100
+4300003,Environment and Sustainability,General Science,Feb-2022,2,3,0,0,NA,3,70,30,0,0,100
+4300005,Physics,Basic Sciences,Feb-2022,2,3,0,2,NA,4,70,30,25,25,150
+4300013,Basic Engineering Drawing and Graphics,Engineering Sciences,Feb-2022,2,2,0,4,NA,4,70,30,25,25,150
+4300016,Indian Constitution,Audit,Feb-2022,2,2,0,0,NA,0,0,0,50,0,50
+4310001,Basics of Civil Engineering,Engineering Sciences,Feb-2022,2,0,2,2,NA,3,0,0,25,25,50
+4320002,Engineering Mathematics,Basic Sciences,Feb-2022,2,3,1,0,NA,4,70,30,0,0,100
+4320901,A.C. Circuits,Program Core,Feb-2022,2,3,1,2,NA,5,70,30,25,25,150
+4360901,"Electrical Installation, Commissioning And Maintenance",Compulsory,Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360902,Microprocessor & Controller Applications,Compulsory,Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360903,Energy Conservation & Audit,Compulsory,Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360904,Green Technology,Elective(Any one),Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360905,Electrical Drives,Elective(Any one),Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360906,Electrical Engineering Project-II,Compulsory,Jan-2024,6,0,0,4,NA,2,0,0,50,50,100
+noc26-cs161,Introduction to Internet of Things,Multidisciplinary Open Professional Electives Courses - I (MOOC),July 2026,4,3,0,0,NA,3,100,0,0,0,100
+noc26-de26,Understanding Incubation and Entrepreneurship,Multidisciplinary Open Professional Electives Courses - I (MOOC),July 2026,4,3,0,0,NA,3,100,0,0,0,100
+noc26-ae27,Drone Systems and Control,Multidisciplinary Open Professional Electives Courses - II (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
+noc26-ee103,"Electric Vehicle: Its Components, Charging Infrastructure and Grid Integration Solution",Multidisciplinary Open Professional Electives Courses - II (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
+4300021,Entrepreneurship and Start-ups,compulsory,July-2023,5,3,0,0,NA,3,70,30,0,0,100
+4350901,Switchgear & Protection,compulsory,July-2023,5,3,0,2,NA,4,70,30,25,25,150
+4350902,Power Electronics & Drives,compulsory,July-2023,5,3,0,2,NA,4,70,30,25,25,150
+4350904,Electrical Engineering Project-I,compulsory,July-2023,5,0,0,2,NA,1,0,0,50,50,100
+4350905,Summer Internship-II,compulsory,July-2023,5,0,0,6,NA,3,0,0,50,50,100
+4350906,Special Electrical Machine,Elective(Any one),July-2023,5,3,0,2,NA,4,70,30,25,25,150
+4350907,Electrical Traction & Control,Elective(Any one),July-2023,5,3,0,2,NA,4,70,30,25,25,150
+4340001,Essence of Indian Knowledge and Tradition,Elective(Any one),March-2023,4,2,0,0,NA,2,70,30,25,25,150
+4340002,Contributor Personality Development,Elective(Any one),March-2023,4,2,0,0,NA,2,70,30,25,25,150
+4340003,Integrated Personality Development Course,Elective(Any one),March-2023,4,2,0,0,NA,2,70,30,25,25,150
+4340901,Polyphase Transformers and Rotating AC Machines,compulsory,March-2023,4,3,0,2,NA,4,70,30,25,25,150
+4340902,Distribution and Utilization of Electrical Power,compulsory,March-2023,4,3,0,2,NA,4,70,30,25,25,150
+4340903,"Electrical Wiring Estimating, Costing & Contracting",compulsory,March-2023,4,3,0,2,NA,4,70,30,25,25,150
+4340904,Digital Electronics & Digital Instruments,compulsory,March-2023,4,3,0,2,NA,4,70,30,25,25,150
+3300001,Basic Mathematics,,Sept-2012,1,2,2,0,NA,4,70,30,0,0,100
+3300002,English,,Sept-2012,1,3,2,0,NA,5,70,30,30,20,150
+3300003,Environment Conservation And Hazard Management,,Sept-2012,1,4,0,0,NA,4,70,30,0,0,100
+3300006,ENGINEERING CHEMISTRY ( GROUP-2 ),,Sept-2012,1,3,0,2,NA,5,70,30,30,20,150
+3300013,Basic Of Computer & Information Technology,,Sept-2012,1,0,0,4,NA,4,0,0,60,40,100
+3300015,Fundamental Of Mechanical Engineering,,Sept-2012,1,3,0,2,NA,5,70,30,30,20,150
+1990001,Contributor Personality Development,Elective,Sept-2012,2,4,0,0,NA,4,70,30,30,20,150
+3300005,BASIC PHYSICS (GROUP-2),Compulsory,Sept-2012,2,3,0,2,NA,5,70,30,30,20,150
+3300007,Basic Engineering Drawing,Compulsory,Sept-2012,2,2,0,4,NA,6,70,30,60,40,200
+3320002,ADVANCED MATHEMATICS (GROUP-1),Compulsory,Sept-2012,2,2,2,0,NA,4,70,30,0,0,100
+3320004,Basic Of Civil Engineering,Compulsory,Sept-2012,2,0,1,2,NA,3,0,0,30,20,50
+3320902,Electrical Engineering Workshop Practice,Compulsory,Sept-2012,2,0,0,4,NA,4,0,0,60,40,100
+3320903,D.c.circuits,Compulsory,Sept-2012,2,2,2,2,NA,6,70,30,30,20,150
+3990001,Contributor Personality Development,Elective,Sept-2012,2,4,0,0,NA,4,70,30,30,20,150
+3330901,Ac Circuits,,Sept-2012,3,3,2,2,NA,7,70,30,30,20,150
+3330902,D C Machines And Transformer,,Sept-2012,3,4,0,4,NA,8,70,30,60,40,200
+3330903,Electrical Instrumentation,,Sept-2012,3,4,0,2,NA,6,70,30,30,20,150
+3330904,Electrical Power Generation,,Sept-2012,3,4,2,0,NA,6,70,30,0,0,100
+3330905,Electronics Components And Circuits,,Sept-2012,3,4,0,2,NA,6,70,30,30,20,150
+3340901,Polyphase Transformers And Rotating Ac Machines,Compulsory,Sept-2012,4,4,0,4,NA,8,70,30,60,40,200
+3340902,Transmission And Distribution Of Electrical Power,Compulsory,Sept-2012,4,4,0,2,NA,6,70,30,30,20,150
+3340903,Utilization Of Electrical Energy,Compulsory,Sept-2012,4,4,0,2,NA,6,70,30,30,20,150
+3340904,Digital Electronics And Digital Instruments,Compulsory,Sept-2012,4,4,0,2,NA,6,70,30,30,20,150
+3340905,Computer Aided Electrical Drawing And Simulation,Compulsory,Sept-2012,4,0,0,4,NA,4,0,0,60,40,100
+3350901,"Wiring Estimating, Costing & Contracting",,Sept-2012,5,3,0,2,NA,5,70,30,30,20,150
+3350902,Energy Conservation & Audit,,Sept-2012,5,4,0,2,NA,6,70,30,30,20,150
+3350903,Power Electronics,,Sept-2012,5,4,0,2,NA,6,70,30,30,20,150
+3350904,Microprocessor And Controller Applications,,Sept-2012,5,4,0,2,NA,6,70,30,30,20,150
+3350905,Wind And Solar Energy Systems,Elective,Sept-2012,5,3,0,2,NA,5,70,30,30,20,150
+3350906,Special Electrical Machines,Elective,Sept-2012,5,3,0,2,NA,5,70,30,30,20,150
+3350907,Electric Traction And Control,Elective,Sept-2012,5,3,0,2,NA,5,70,30,30,20,150
+3350908,PROJECT-I,,Sept-2012,5,0,0,4,NA,4,0,0,60,40,100
+3350905,Wind And Solar Energy Systems,Elective,Sept-2012,6,3,0,2,NA,5,70,30,30,20,150
+3350906,Special Electrical Machines,Elective,Sept-2012,6,3,0,2,NA,5,70,30,30,20,150
+3350907,Electric Traction And Control,Elective,Sept-2012,6,3,0,2,NA,5,70,30,30,20,150
+3360901,Switchgear & Protection,Compulsory,Sept-2012,6,4,0,2,NA,6,70,30,30,20,150
+3360902,"Installation, Commissioning And Maintenance",Compulsory,Sept-2012,6,4,0,2,NA,6,70,30,30,20,150
+3360903,Power System Operation And Control,Elective,Sept-2012,6,3,0,2,NA,5,70,30,30,20,150
+3360904,Substation Engineering And Power Quality,Elective,Sept-2012,6,3,0,2,NA,5,70,30,30,20,150
+3360905,Design Parameters Of Electrical Equipement And Machines,Elective,Sept-2012,6,3,0,2,NA,5,70,30,30,20,150
+3360906,Electrical Drives,Elective,Sept-2012,6,3,0,2,NA,5,70,30,30,20,150
+3360907,Maintenance Of Transformer And Circuit Breaker,Elective,Sept-2012,6,3,0,2,NA,5,70,30,30,20,150
+3360908,Electrification Of Building Complexes,Elective,Sept-2012,6,3,0,2,NA,5,70,30,30,20,150
+3360909,PROJECT-II,Compulsory,Sept-2012,6,0,0,6,NA,6,0,0,60,40,100
+4300001,Mathematics,Basic Sciences,Sept-2021,1,3,1,0,NA,4,70,30,0,0,100
+4300002,Communication Skills in English,Humanities & Social Sciences,Sept-2021,1,2,0,2,NA,3,70,30,25,25,150
+4300006,Engineering Chemistry,Basic Sciences,Sept-2021,1,3,0,2,NA,4,70,30,25,25,150
+4300010,Basics of Information and Communication Technology,Engineering Sciences,Sept-2021,1,0,0,4,NA,2,0,0,25,25,50
+4300015,Sports and Yoga,Audit,Sept-2021,1,0,0,2,NA,0,0,0,50,0,50
+4300017,Basics of Mechanical Engineering,Engineering Sciences,Sept-2021,1,0,2,2,NA,3,0,0,25,25,50
+4310901,D.C. Circuits,Program core,Sept-2021,1,3,1,2,NA,5,70,30,25,25,150
+4310002,Induction Program,Mandatory,Sept-2022,1,0,0,0,NA,0,0,0,0,0,0
