@@ -19,6 +19,10 @@ Notes on the portal data: the 2011 scheme's Semester 1-2 lists are the common fi
 - [Revision 2026-27 (Sem 5 DI codes)](schemes/scheme-2026-27.md): 11 subjects
 - [July 2026 MOOC electives](schemes/scheme-july-2026.md): 4 subjects
 
+## PDF backup
+
+Offline copies of the syllabus PDFs are kept in a Google Drive folder, organised by scheme: [GTU Diploma Electrical Syllabus PDFs](https://drive.google.com/drive/folders/1rtyjricq8J8NxNqS-upMjS1wCObIwh_T). 266 PDF files are archived there, covering 271 of the 284 subject entries (a few codes repeat across semesters and share one PDF). 13 codes have no PDF on GTU's server, so for those only the scheme data in this archive is preserved: the 4 MOOC courses (noc26-cs161, noc26-de26, noc26-ae27, noc26-ee103), 7 subjects of the 2011 scheme (310001, 310014, 310047, 320024, 340904, 350904, 350906), and 2 of the 2012 scheme (3350908, 3360909).
+
 ## Columns
 
 L = Lectures, T = Tutorial, P = Practical, PBL = Project Based Learning, E = External theory marks, M = Internal assessment, I = Internal viva/submission, V = External viva, Total = total marks. Values are exactly as shown on the GTU portal.
